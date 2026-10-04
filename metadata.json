@@ -1,0 +1,6 @@
+{
+  "name": "PowerX Sports - Custom Footballs & B2B Sports Export",
+  "description": "Sialkot, Pakistan based sports supplier offering custom footballs, bespoke branding, and wholesale bulk orders for international buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
